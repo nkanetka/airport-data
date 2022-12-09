@@ -1,0 +1,1639 @@
+[
+    {
+        "name": "CYKF",
+        "elevation": 1054,
+        "approaches": [
+            {
+                "name": "ILS 26",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA WT NW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA WT NE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA WT SW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA WT SE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MAPEM",
+                        "value": 3000
+                    },
+                    {
+                        "name": "OMTED",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt.",
+                        "value": 2000
+                    },
+                    {
+                        "name": "DAXUN",
+                        "value": 2210
+                    },
+                    {
+                        "name": "MDA (ILS)",
+                        "value": 1255
+                    },
+                    {
+                        "name": "MDA (LOC)",
+                        "value": 1420
+                    },
+                    {
+                        "name": "MDA (Circling)",
+                        "value": 1560
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV Z 26",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA WT NW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA WT NE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA WT SW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA WT SE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MAPEM",
+                        "value": 3000
+                    },
+                    {
+                        "name": "OMTED",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LIBIL to DAXUN)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DAXUN to KIVIN - LNAV only)",
+                        "value": 1600
+                    },
+                    {
+                        "name": "DAXUN",
+                        "value": 2200
+                    },
+                    {
+                        "name": "KIVIN",
+                        "value": 1610
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1254
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1307
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV 32",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW32 NW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW32 NW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW32 NW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW32 NW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "PIDGA",
+                        "value": 3000
+                    },
+                    {
+                        "name": "SUXIB",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (NUDIB to NOXEX)",
+                        "value": 2100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (NOXEX to XOVRO)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "NOXEX",
+                        "value": 2100
+                    },
+                    {
+                        "name": "XOVRO",
+                        "value": 1530
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1276
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1284
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1380
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV 14",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW14 NW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW14 NE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW14 SW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW14 SE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "ADRUN",
+                        "value": 3000
+                    },
+                    {
+                        "name": "ROGPA",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KIXAK to SUTNO)",
+                        "value": 2100
+                    },
+                    {
+                        "name": "SUTNO",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1540
+                    }
+                ]
+            },
+            {
+                "name": "RNAV Z 08",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW08 NW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW08 NE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW08 SW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW08 SE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "UBVOT",
+                        "value": 3000
+                    },
+                    {
+                        "name": "LESAV",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DUPUR to IKMID)",
+                        "value": 2100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IKMID to XOXAT)",
+                        "value": 1600
+                    },
+                    {
+                        "name": "IKMID",
+                        "value": 2100
+                    },
+                    {
+                        "name": "XOXAT",
+                        "value": 1630
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1273
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1534
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CYSA",
+        "elevation": 1211,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 05",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW05 NW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW05 NE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW05 SW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW05 SE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KIVIS to RUDBO)",
+                        "value": 2900
+                    },
+                    {
+                        "name": "RUDBO",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1709
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1720
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3200
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 23",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW23 NW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW23 NE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW23 SW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW23 SE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OVIDU to UBDIK)",
+                        "value": 2900
+                    },
+                    {
+                        "name": "UBDIK",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1710
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1720
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3200
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CYFD",
+        "elevation": 815,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 05",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW05 NW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW05 NE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW05 SW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW05 SE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OVUTU to SEKIL)",
+                        "value": 2400
+                    },
+                    {
+                        "name": "SEKIL",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1300
+                    },
+                    {
+                        "name": "MDA (Circling)",
+                        "value": 1320
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3200
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 23",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW23 NW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW23 NE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW23 SW",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MSA RW23 SE",
+                        "value": 3200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (UKIMI to KIPAB)",
+                        "value": 2400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KIPAB to VESBU)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "KIPAB",
+                        "value": 2450
+                    },
+                    {
+                        "name": "VESBU",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1240
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3200
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CYHM",
+        "elevation": 780,
+        "approaches": [
+            {
+                "name": "ILS or NDB 12 (GNSS)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA ZHA NW",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA ZHA NE",
+                        "value": 2800
+                    },
+                    {
+                        "name": "MSA ZHA SW",
+                        "value": 2700
+                    },
+                    {
+                        "name": "MSA ZHA SE",
+                        "value": 2700
+                    },
+                    {
+                        "name": "Intercept height",
+                        "value": 2700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SEFBY to ZHA)",
+                        "value": 2200
+                    },
+                    {
+                        "name": "ZHA",
+                        "value": 2010
+                    },
+                    {
+                        "name": "DH (ILS)",
+                        "value": 980
+                    },
+                    {
+                        "name": "MDA (LOC)",
+                        "value": 1180
+                    },
+                    {
+                        "name": "MDA (NDB)",
+                        "value": 1280
+                    },
+                    {
+                        "name": "MDA (Circling)",
+                        "value": 1280
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2800
+                    }
+                ]
+            },
+            {
+                "name": "LOC or NDB 30",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA ZHM NW",
+                        "value": 2800
+                    },
+                    {
+                        "name": "MSA ZHM NE",
+                        "value": 2800
+                    },
+                    {
+                        "name": "MSA ZHM SW",
+                        "value": 2800
+                    },
+                    {
+                        "name": "MSA ZHM SE",
+                        "value": 2800
+                    },
+                    {
+                        "name": "Intercept height",
+                        "value": 2800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DELVA to ZHM)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "ZHM",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MDA (LOC)",
+                        "value": 1100
+                    },
+                    {
+                        "name": "MDA (NDB)",
+                        "value": 1240
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2300
+                    },
+                    {
+                        "name": "Missed Approach Shuttle Climb",
+                        "value": 2700
+                    }
+                ]
+            },
+            {
+                "name": "RNAV Z 06",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW06 NW",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW06 NE",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW06 SW",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW06 SE",
+                        "value": 3100
+                    },
+                    {
+                        "name": "Intercept height",
+                        "value": 2300
+                    },
+                    {
+                        "name": "DAXAT",
+                        "value": 4010
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DAXAT to VIBKA)",
+                        "value": 2200
+                    },
+                    {
+                        "name": "VIBKA",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1021
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1082
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1160
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3100
+                    }
+                ]
+            },
+            {
+                "name": "RNAV Z 12",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW12 NW",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW12 NE",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW12 SW",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW12 SE",
+                        "value": 3100
+                    },
+                    {
+                        "name": "LOGLI",
+                        "value": 4110
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LOGLI to IGTIG)",
+                        "value": 2200
+                    },
+                    {
+                        "name": "IGTIG",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 976
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1268
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1220
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2800
+                    }
+                ]
+            },
+            {
+                "name": "RNAV Z 24",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW24 NW",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW24 NE",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW24 SW",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW24 SE",
+                        "value": 3100
+                    },
+                    {
+                        "name": "Intercept height",
+                        "value": 2500
+                    },
+                    {
+                        "name": "MUXIG",
+                        "value": 4010
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MUXIG to KEDIS)",
+                        "value": 2200
+                    },
+                    {
+                        "name": "KEDIS",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1017
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1039
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1160
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3100
+                    }
+                ]
+            },
+            {
+                "name": "RNAV Z 30",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW30 NW",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW30 NE",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW30 SW",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW30 SE",
+                        "value": 3100
+                    },
+                    {
+                        "name": "DELVA",
+                        "value": 3900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DELVA to GOPEB)",
+                        "value": 2200
+                    },
+                    {
+                        "name": "GOPEB",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1016
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1073
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1160
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2300
+                    },
+                    {
+                        "name": "Missed Approach Shuttle Climb",
+                        "value": 2600
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CYXU",
+        "elevation": 912,
+        "approaches": [
+            {
+                "name": "ILS 15",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA YXU NW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA YXU NE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA YXU SW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA YXU SE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "URLOS",
+                        "value": 3000
+                    },
+                    {
+                        "name": "OLEXI",
+                        "value": 3000
+                    },
+                    {
+                        "name": "TUDAR",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TUDAR to ITLOL)",
+                        "value": 2100
+                    },
+                    {
+                        "name": "ITLOL",
+                        "value": 2110
+                    },
+                    {
+                        "name": "DH (ILS)",
+                        "value": 1112
+                    },
+                    {
+                        "name": "MDA (LOC)",
+                        "value": 1240
+                    },
+                    {
+                        "name": "MDA (Circling)",
+                        "value": 1420
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "VOR 09",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA YXU NW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA YXU NE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA YXU SW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA YXU SE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Intercept Height",
+                        "value": 2500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AVTIK to RONGI)",
+                        "value": 1800
+                    },
+                    {
+                        "name": "RONGI",
+                        "value": 1800
+                    },
+                    {
+                        "name": "MDA (VOR/DME)",
+                        "value": 1320
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3000
+                    }
+                ]
+            },
+            {
+                "name": "VOR 27",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA YXU NW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA YXU NE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA YXU SW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA YXU SE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Intercept Hieght",
+                        "value": 2600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (XEVIP to LODMO)",
+                        "value": 2100
+                    },
+                    {
+                        "name": "LODMO",
+                        "value": 1900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LODMO to XETAV)",
+                        "value": 1600
+                    },
+                    {
+                        "name": "XETAV",
+                        "value": 1620
+                    },
+                    {
+                        "name": "MDA (VOR/DME)",
+                        "value": 1260
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV 09",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW09 NW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW09 NE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW09 SW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW09 SE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "BEMIK",
+                        "value": 3000
+                    },
+                    {
+                        "name": "ALITI",
+                        "value": 3000
+                    },
+                    {
+                        "name": "VIMSA",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VIMSA to KIXIV)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "KIXIV",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1157
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1365
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1320
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV 27",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW27 NW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW27 NE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW27 SW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW27 SE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "GOPEX",
+                        "value": 3000
+                    },
+                    {
+                        "name": "ONDUL",
+                        "value": 3000
+                    },
+                    {
+                        "name": "GOTOL",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (GOTOL to OTNUP)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "OTNUP",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1151
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1195
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1300
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV Z 15",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW15 NW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW15 NE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW15 SW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW15 SE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "URLOS",
+                        "value": 3000
+                    },
+                    {
+                        "name": "OLEXI",
+                        "value": 3000
+                    },
+                    {
+                        "name": "TUDAR",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TUDAR to ITLOL)",
+                        "value": 2100
+                    },
+                    {
+                        "name": "ITLOL",
+                        "value": 2100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ITLOL to XOSPA - LNAV only)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "XOSPA",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1112
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1190
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1280
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV Z 33",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4900
+                    },
+                    {
+                        "name": "MSA RW33 NW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW33 NE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW33 SW",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW33 SE",
+                        "value": 3000
+                    },
+                    {
+                        "name": "LOMSU",
+                        "value": 3000
+                    },
+                    {
+                        "name": "KERPO",
+                        "value": 3000
+                    },
+                    {
+                        "name": "DAVOK",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DAVOK to NORAP)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "NORAP",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (NORAP to XOXAS - LNAV only)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "XOXAS",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1155
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1155
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1220
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CYZF",
+        "elevation": 1675,
+        "approaches": [
+            {
+                "name": "ILS 34",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA ZF NW",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA ZF NE",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA ZF SW",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA ZF SE",
+                        "value": 1900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IGROP to OMTAX)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PEPGA to OMTAX)",
+                        "value": 2100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OMTAX to ZF)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "ZF",
+                        "value": 1520
+                    },
+                    {
+                        "name": "LOGTA",
+                        "value": 1190
+                    },
+                    {
+                        "name": "DH (ILS)",
+                        "value": 872
+                    },
+                    {
+                        "name": "MDA (LOC)",
+                        "value": 960
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A)",
+                        "value": 1120
+                    },
+                    {
+                        "name": "MDA (Circling, Cat B)",
+                        "value": 1200
+                    },
+                    {
+                        "name": "MDA (Circling, Cat C)",
+                        "value": 1260
+                    },
+                    {
+                        "name": "MDA (Circling, Cat D)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS Z 10",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA 30nm to BESUT",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA 30nm to DAXAX",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA 30nm to TADOL",
+                        "value": 2300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DAXAD to BESUT)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TADOL to BESUT)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "ADRIS",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 922
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 979
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1080
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS Z 16",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA 30nm to ADSAL",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA 30nm to ALERU",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA 30nm to NALVO",
+                        "value": 2200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ALERU to ADSAL)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (NALVO to ADSAL)",
+                        "value": 2100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ADSAL to RADIR)",
+                        "value": 2100
+                    },
+                    {
+                        "name": "RADIR",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 925
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 926
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1080
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS Z 28",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA 30nm to XULBU",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA 30nm to VOLOS",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA 30nm to WHEGE",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (XUBLU to VOLOS)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (WHEGE to VOLOS)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "ULEXA",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ULEXA to DUPTU)",
+                        "value": 1100
+                    },
+                    {
+                        "name": "DUPTU (LNAV only)",
+                        "value": 1110
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 925
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 926
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1020
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS Z 34",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA 30nm to OMTAX",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA 30nm to IRGOP",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA 30nm to PEPGA",
+                        "value": 2200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IRGOP to OMTAX)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PEPGA to OMTAX)",
+                        "value": 2100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OMTAX to MAVUG)",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MAVUG",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MAVUG to LOGTA)",
+                        "value": 1180
+                    },
+                    {
+                        "name": "LOGTA (LNAV only)",
+                        "value": 1190
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 858
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 908
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1060
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "VOR 10",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA YZF NW",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA YZF NE",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA YZF SW",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA YZF SE",
+                        "value": 2000
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MDA",
+                        "value": 1120
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2200
+                    }
+                ]
+            },
+            {
+                "name": "VOR 16",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA YZF NW",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA YZF NE",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA YZF SW",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA YZF SE",
+                        "value": 2000
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MDA",
+                        "value": 1280
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2200
+                    }
+                ]
+            }
+        ]
+    }
+]
