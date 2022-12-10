@@ -1265,7 +1265,7 @@
     },
     {
         "name": "CYZF",
-        "elevation": 1675,
+        "elevation": 675,
         "approaches": [
             {
                 "name": "ILS 34",
@@ -1638,7 +1638,7 @@
     },
     {
         "name": "CYCO",
-        "elevation": 1074,
+        "elevation": 74,
         "approaches": [
             {
                 "name": "RNAV GNSS 30 (TRUE)",
@@ -1803,7 +1803,7 @@
     },
     {
         "name": "CYYH",
-        "elevation": 1090,
+        "elevation": 90,
         "approaches": [
             {
                 "name": "RNAV GNSS 33 (TRUE)",
