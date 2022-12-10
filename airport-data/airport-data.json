@@ -1635,5 +1635,331 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYCO",
+        "elevation": 1074,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 30 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3700
+                    },
+                    {
+                        "name": "MSA 30nm to ROVGO",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA 30nm to DUVEM",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA 30nm to SAXIK",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA 15nm to SAXIK",
+                        "value": 2600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DUVEM to SAXIK)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ROVGO to SAXIK)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SAXIK to TEVUR)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "TEVUR",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 570
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 570
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 580
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2900
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 12 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3700
+                    },
+                    {
+                        "name": "MSA 30nm to NUGEB",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA 30nm to ROPLU",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA 30nm to PITUV",
+                        "value": 2500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ROPLU to PITUV)",
+                        "value": 2500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (NUGEB to PITUV)",
+                        "value": 2300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PITUV to LIBOP)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "LIBOP",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 538
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 538
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 540
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3000
+                    }
+                ]
+            },
+            {
+                "name": "NDB A (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3700
+                    },
+                    {
+                        "name": "MSA YCO NW",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA YCO NE",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MSA YCO SW",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA YCO SE",
+                        "value": 2900
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PT to YCO)",
+                        "value": 900
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A & B)",
+                        "value": 640
+                    },
+                    {
+                        "name": "MDA (Circling, Cat C)",
+                        "value": 640
+                    },
+                    {
+                        "name": "MDA (Circling, Cat D)",
+                        "value": 700
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1600
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CYYH",
+        "elevation": 1090,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 33 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW33 NW",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA RW33 NE",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA RW33 SW",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA RW33 SE",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (UKSEN to ONBUR)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IPTIK to ONBUR)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ONBUR to KERLU)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "KELRU",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 580
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 580
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 15 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW15 NW",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA RW15 NE",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA RW15 SW",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA RW15 SE",
+                        "value": 2100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PUPOR to GONOM)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LERIB to GONOM)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (GONOM to BOTUK)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "BOTUK",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 590
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 600
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2100
+                    }
+                ]
+            },
+            {
+                "name": "NDB 15 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA YYH NW",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA YYH NE",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA YYH SW",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA YYH SE",
+                        "value": 1800
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PT to YYH)",
+                        "value": 900
+                    },
+                    {
+                        "name": "MDA NDB (Cat A & B)",
+                        "value": 620
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A & B)",
+                        "value": 620
+                    },
+                    {
+                        "name": "MDA (Circling, Cat C)",
+                        "value": 620
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2000
+                    }
+                ]
+            }
+        ]
     }
 ]
