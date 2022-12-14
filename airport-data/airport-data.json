@@ -2230,5 +2230,109 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYBB",
+        "elevation": 51,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 23 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA VOBUB NW",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA VOBUB NE",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA VOBUB SW",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA VOBUB SE",
+                        "value": 2300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MURUD to ONDEM)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DATLA to ONDEM)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ONDEM to TEVID)",
+                        "value": 900
+                    },
+                    {
+                        "name": "TEVID",
+                        "value": 1810
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 560
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2300
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 05 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW05 NW",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA RW05 NE",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA RW05 SW",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA RW05 SE",
+                        "value": 2300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KAVMA to LENEK)",
+                        "value": 1200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MEBIN to LENEK)",
+                        "value": 1300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LENEK to DATNU)",
+                        "value": 1200
+                    },
+                    {
+                        "name": "DATNU",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 560
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2200
+                    }
+                ]
+            }
+        ]
     }
 ]
