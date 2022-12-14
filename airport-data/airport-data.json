@@ -2118,5 +2118,117 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYHK",
+        "elevation": 154,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 31 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2600
+                    },
+                    {
+                        "name": "MSA 30nm to LOBLA",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MSA 30nm to MISOT",
+                        "value": 1600
+                    },
+                    {
+                        "name": "MSA 30nm to RIBEX",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MISOT to LOBLA)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (RIBEX to LOBLA)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LOBLA to KIVAG)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "KIVAG",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 628
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 628
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 640
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1500
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 13 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2600
+                    },
+                    {
+                        "name": "MSA 30nm to EPMEL",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MSA 30nm to KASEK",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MSA 30nm to ILETI",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KASEK to EPMEL)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ILETI to EPMEL)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EPMEL to DATMU)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "DATMU",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 654
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 654
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 660
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1500
+                    }
+                ]
+            }
+        ]
     }
 ]
