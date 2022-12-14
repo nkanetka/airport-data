@@ -1961,5 +1961,162 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYCB",
+        "elevation": 102,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 13 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2500
+                    },
+                    {
+                        "name": "MSA 30nm to VOGOX",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA 30nm to MOBOG",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA 30nm to TIKOM",
+                        "value": 1800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MOBOG to VOGOX)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TIKOM to VOGOX)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VOGOX to LOBDU)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "LOBDU",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 350
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 350
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 380
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 31 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2500
+                    },
+                    {
+                        "name": "MSA 30nm to ROMBU",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MSA 30nm to TEVAM",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA 30nm to SEDIX",
+                        "value": 1800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SEDIX to ROMBU)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TEVAM to ROMBU)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ROMBU to LEXUP)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "LEXUP",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 322
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 322
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 400
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1800
+                    }
+                ]
+            },
+            {
+                "name": "VOR 13 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2500
+                    },
+                    {
+                        "name": "MSA YCB NW",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA YCB NE",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA YCB SW",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA YCB SE",
+                        "value": 1800
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MDA VOR",
+                        "value": 780
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A, B, C)",
+                        "value": 780
+                    },
+                    {
+                        "name": "MDA (Circling, Cat D)",
+                        "value": 780
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1700
+                    }
+                ]
+            }
+        ]
     }
 ]
