@@ -2607,5 +2607,117 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYXN",
+        "elevation": 40,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 15 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA 30 nm to VOKIB",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MSA 30 nm to ETBIV",
+                        "value": 1600
+                    },
+                    {
+                        "name": "MSA 30 nm to SEDUL",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ETBIV to VOKIB)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SEDUL to VOKIB)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VOKIB to IMIKU)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "IMIKU",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 530
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 530
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 540
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1500
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 33 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA 30 nm to MISUM",
+                        "value": 1600
+                    },
+                    {
+                        "name": "MSA 30 nm to URMUP",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MSA 30 nm to OMPUV",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MISUM to URMUP)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OMPUV to URMUP)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (URMUP to NUBEV)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "NUBEV",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 540
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 540
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 540
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1500
+                    }
+                ]
+            }
+        ]
     }
 ]
