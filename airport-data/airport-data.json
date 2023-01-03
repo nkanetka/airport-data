@@ -3004,5 +3004,150 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYBK",
+        "elevation": 61,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 16 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA 30nm to EPSIP",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA 30nm to LOPRU",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA 30nm to ILIVA",
+                        "value": 1900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EPSIP to LOPRU)",
+                        "value": 1600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ILIVA to LOPRU)",
+                        "value": 1600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LOPRU to NOVOL)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "NOVOL",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 614
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 681
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 610
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1500
+                    }
+                ]
+            },
+            {
+                "name": "VOR/DME 34 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA YBK NW",
+                        "value": 1800
+                    },
+                    {
+                        "name": "MSA YBK NW",
+                        "value": 1800
+                    },
+                    {
+                        "name": "MSA YBK SW",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA YBK SE",
+                        "value": 1800
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PT to TERAH)",
+                        "value": 800
+                    },
+                    {
+                        "name": "TERAH",
+                        "value": 1060
+                    },
+                    {
+                        "name": "MDA (VOR/DME)",
+                        "value": 540
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1900
+                    }
+                ]
+            },
+            {
+                "name": "VOR B (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA YBK NW",
+                        "value": 1800
+                    },
+                    {
+                        "name": "MSA YBK NW",
+                        "value": 1800
+                    },
+                    {
+                        "name": "MSA YBK SW",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA YBK SE",
+                        "value": 1800
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PT to YBK)",
+                        "value": 800
+                    },
+                    {
+                        "name": "MDA (Circling)",
+                        "value": 740
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1900
+                    }
+                ]
+            }
+        ]
     }
 ]
