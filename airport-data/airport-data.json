@@ -3074,7 +3074,7 @@
                         "value": 1800
                     },
                     {
-                        "name": "MSA YBK NW",
+                        "name": "MSA YBK NE",
                         "value": 1800
                     },
                     {
@@ -3119,7 +3119,7 @@
                         "value": 1800
                     },
                     {
-                        "name": "MSA YBK NW",
+                        "name": "MSA YBK NE",
                         "value": 1800
                     },
                     {
@@ -3145,6 +3145,196 @@
                     {
                         "name": "Missed Approach",
                         "value": 1900
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CYRT",
+        "elevation": 106,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 13 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA RW13 NW",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA RW13 NE",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA RW13 SW",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA RW13 SE",
+                        "value": 2100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (USBAB to ONDOS)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PIGBU to ONDOS)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ONDOS to URPOX)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "URPOX",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 360
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 460
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2100
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 31 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA RW31 NW",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA RW31 NE",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA RW31 SW",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA RW31 SE",
+                        "value": 2100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OVESA to TIGEP)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SEGIK to TIGEP)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TIGEP to UDPEP)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "UDPEP",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 370
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 460
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2100
+                    }
+                ]
+            },
+            {
+                "name": "VOR 13 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA YRT NW",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MSA YRT NE",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA YRT SW",
+                        "value": 1300
+                    },
+                    {
+                        "name": "MSA YRT SE",
+                        "value": 1400
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1300
+                    },
+                    {
+                        "name": "MDA (VOR)",
+                        "value": 580
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2100
+                    }
+                ]
+            },
+            {
+                "name": "VOR/DME 31 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA YRT NW",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MSA YRT NE",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA YRT SW",
+                        "value": 1300
+                    },
+                    {
+                        "name": "MSA YRT SE",
+                        "value": 1400
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PT to IRDIL)",
+                        "value": 800
+                    },
+                    {
+                        "name": "MDA (VOR/DME)",
+                        "value": 460
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2100
                     }
                 ]
             }
