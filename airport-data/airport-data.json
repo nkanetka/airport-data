@@ -3063,6 +3063,59 @@
                 ]
             },
             {
+                "name": "RNAV GNSS 34 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA 30nm to DENPO",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA 30nm to IRGUX",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA 30nm to ETKUT",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DENPO to IRGUX)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ETKUT to IRGUX)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IRGUX to NABUV)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "NABUV",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 512
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 512
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 520
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1600
+                    }
+                ]
+            },
+            {
                 "name": "VOR/DME 34 (TRUE)",
                 "minimumAltitudes": [
                     {
