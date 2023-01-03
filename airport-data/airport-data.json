@@ -2839,5 +2839,170 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYZS",
+        "elevation": 204,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 16 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW16 NW",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA RW16 NE",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA RW16 SW",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA RW16 SE",
+                        "value": 2900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MAXUD to AGMIP)",
+                        "value": 1900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IKMEN to AGMIP)",
+                        "value": 1900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AGMIP to GOXOR)",
+                        "value": 1600
+                    },
+                    {
+                        "name": "GOXOR",
+                        "value": 1600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (GOXOR to XETIM)",
+                        "value": 800
+                    },
+                    {
+                        "name": "XETIM",
+                        "value": 830
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 580
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 34 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA RW34 NW",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA RW34 NE",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA RW34 SW",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA RW34 SE",
+                        "value": 2900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KAXIP to GOPIS)",
+                        "value": 1600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EBGEB to GOPIS)",
+                        "value": 1600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (GOPIS to MAXUX)",
+                        "value": 1600
+                    },
+                    {
+                        "name": "MAXUX",
+                        "value": 1600
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 520
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1900
+                    }
+                ]
+            },
+            {
+                "name": "NDB 34 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA YZS NW",
+                        "value": 2700
+                    },
+                    {
+                        "name": "MSA YZS NE",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA YZS SW",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA YZS SE",
+                        "value": 1500
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PT to YZS)",
+                        "value": 900
+                    },
+                    {
+                        "name": "MDA (NDB)",
+                        "value": 620
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A & B)",
+                        "value": 720
+                    },
+                    {
+                        "name": "MDA (Circling, Cat C)",
+                        "value": 720
+                    },
+                    {
+                        "name": "MDA (Circling, Cat D)",
+                        "value": 820
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2900
+                    }
+                ]
+            }
+        ]
     }
 ]
