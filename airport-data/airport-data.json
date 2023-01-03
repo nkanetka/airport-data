@@ -3848,5 +3848,195 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYGX",
+        "elevation": 476,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 05",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW05 NW",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA RW05 NE",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA RW05 SW",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA RW05 SE",
+                        "value": 2300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ODBEM to RIDUB)",
+                        "value": 1800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PELVO to RIDUB)",
+                        "value": 1800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (RIDUB to SATUK)",
+                        "value": 1800
+                    },
+                    {
+                        "name": "SATUK",
+                        "value": 1800
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 726
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2300
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 23",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW23 NW",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA RW23 NE",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA RW23 SW",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA RW23 SE",
+                        "value": 2300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SEGEK to UDNUV)",
+                        "value": 1800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VEVRO to UDNUV)",
+                        "value": 1800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (UDNUV to UKORU)",
+                        "value": 1800
+                    },
+                    {
+                        "name": "UKORU",
+                        "value": 1800
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 724
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2300
+                    }
+                ]
+            },
+            {
+                "name": "NDB 05",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA YGX NW",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA YGX NE",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA YGX SW",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA YGX SE",
+                        "value": 1800
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1800
+                    },
+                    {
+                        "name": "MDA (NDB, Cat A & B)",
+                        "value": 1040
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A & B)",
+                        "value": 1040
+                    },
+                    {
+                        "name": "MDA (Circling, Cat C)",
+                        "value": 1040
+                    },
+                    {
+                        "name": "MDA (Circling, Cat D)",
+                        "value": 1080
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2300
+                    }
+                ]
+            },
+            {
+                "name": "NDB 23",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA YGX NW",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA YGX NE",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA YGX SW",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA YGX SE",
+                        "value": 1800
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MDA (NDB, Cat A & B)",
+                        "value": 1040
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2300
+                    }
+                ]
+            }
+        ]
     }
 ]
