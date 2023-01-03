@@ -3392,5 +3392,109 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYUT",
+        "elevation": 75,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 16 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW16 NW",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW16 NE",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW16 SW",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW16 SE",
+                        "value": 2400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (BEXUG to IGVUM)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ANVIK to IGVUM)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IGVUM to ELAVY)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "ELAVY",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 560
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2400
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 34 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3000
+                    },
+                    {
+                        "name": "MSA RW34 NW",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW34 NE",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW34 SW",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW34 SE",
+                        "value": 2400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DUPEK to EMGOT)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IGSID to EMGOT)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EMGOT to MEVGO)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MEVGO",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 460
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2400
+                    }
+                ]
+            }
+        ]
     }
 ]
