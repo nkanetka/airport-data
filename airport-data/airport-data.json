@@ -2617,51 +2617,51 @@
                 "minimumAltitudes": [
                     {
                         "name": "MSA 100nm",
-                        "value": 2300
+                        "value": 2200
                     },
                     {
-                        "name": "MSA 30 nm to VOKIB",
-                        "value": 1700
-                    },
-                    {
-                        "name": "MSA 30 nm to ETBIV",
+                        "name": "MSA 30 nm to ULOLO",
                         "value": 1600
                     },
                     {
-                        "name": "MSA 30 nm to SEDUL",
+                        "name": "MSA 30 nm to MUTOT",
+                        "value": 1600
+                    },
+                    {
+                        "name": "MSA 30 nm to REROX",
                         "value": 1400
                     },
                     {
-                        "name": "Seg. Min. Alt. (ETBIV to VOKIB)",
+                        "name": "Seg. Min. Alt. (ULOLO to MUTOT)",
                         "value": 1400
                     },
                     {
-                        "name": "Seg. Min. Alt. (SEDUL to VOKIB)",
+                        "name": "Seg. Min. Alt. (REROX to MUTOT)",
                         "value": 1400
                     },
                     {
-                        "name": "Seg. Min. Alt. (VOKIB to IMIKU)",
+                        "name": "Seg. Min. Alt. (MUTOT to XUDBA)",
                         "value": 1400
                     },
                     {
-                        "name": "IMIKU",
+                        "name": "XUDBA",
                         "value": 1400
                     },
                     {
                         "name": "MDA (LPV)",
-                        "value": 530
+                        "value": 284
                     },
                     {
                         "name": "MDA (LNAV/VNAV)",
-                        "value": 530
+                        "value": 346
                     },
                     {
                         "name": "MDA (LNAV)",
-                        "value": 540
+                        "value": 440
                     },
                     {
                         "name": "Missed Approach",
-                        "value": 1500
+                        "value": 1400
                     }
                 ]
             },
@@ -2670,14 +2670,14 @@
                 "minimumAltitudes": [
                     {
                         "name": "MSA 100nm",
-                        "value": 2300
+                        "value": 2200
                     },
                     {
-                        "name": "MSA 30 nm to MISUM",
+                        "name": "MSA 30 nm to TAKEG",
                         "value": 1600
                     },
                     {
-                        "name": "MSA 30 nm to URMUP",
+                        "name": "MSA 30 nm to ROKPO",
                         "value": 1400
                     },
                     {
@@ -2715,6 +2715,126 @@
                     {
                         "name": "Missed Approach",
                         "value": 1500
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CYCS",
+        "elevation": 32,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 12 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2500
+                    },
+                    {
+                        "name": "MSA 30 nm to AXESO",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA 30 nm to UDPIS",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA 15 nm to UDPIS",
+                        "value": 1800
+                    },
+                    {
+                        "name": "MSA 30 nm to EMUXU",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AXESO to UDPIS)",
+                        "value": 1600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EMUXI to UDPIS)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (UDPIS to IGVID)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "IGVID",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 264
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 295
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 400
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1400
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 30 (TRUE)",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 2500
+                    },
+                    {
+                        "name": "MSA 30 nm to ROKMA",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MSA 15 nm to ROKMA",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA 30 nm to IRGEM",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MSA 30 nm to LIDOD",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ROKMA to IRGEM)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LIDOD to IRGEM)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IRGEM to KEBTI)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "KEBTI",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 282
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 385
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 480
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1400
                     }
                 ]
             }
