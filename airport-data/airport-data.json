@@ -6046,5 +6046,105 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYKX",
+        "elevation": 1157,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 08",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3400
+                    },
+                    {
+                        "name": "MSA RW08 NW",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA RW08 NE",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA RW08 SW",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA RW08 SE",
+                        "value": 2900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IGSUV to LEXIB)",
+                        "value": 2900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AVOPO to LEXIB)",
+                        "value": 2400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LEXIB to ODBIK)",
+                        "value": 2400
+                    },
+                    {
+                        "name": "ODBIK",
+                        "value": 2500
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1660
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2900
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 26",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3400
+                    },
+                    {
+                        "name": "MSA RW26 NW",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA RW26 NE",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA RW26 SW",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA RW26 SE",
+                        "value": 2900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VESNA to SASUL)",
+                        "value": 2700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AGMED to SASUL)",
+                        "value": 2700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SASUL to MAROB)",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1680
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2900
+                    }
+                ]
+            }
+        ]
     }
 ]
