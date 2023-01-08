@@ -6146,5 +6146,113 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYXR",
+        "elevation": 800,
+        "approaches": [
+            {
+                "name": "RNAV GNSS 08",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3400
+                    },
+                    {
+                        "name": "MSA RW08 NW",
+                        "value": 3300
+                    },
+                    {
+                        "name": "MSA RW08 NE",
+                        "value": 3300
+                    },
+                    {
+                        "name": "MSA RW08 SW",
+                        "value": 3300
+                    },
+                    {
+                        "name": "MSA RW08 SE",
+                        "value": 3300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ESVOD to OVIGA)",
+                        "value": 2400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (URNAV to OVIGA)",
+                        "value": 2400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OVIGA to ATHAM)",
+                        "value": 2400
+                    },
+                    {
+                        "name": "ATHAM",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1049
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1300
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3200
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 26",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3400
+                    },
+                    {
+                        "name": "MSA RW26 NW",
+                        "value": 3300
+                    },
+                    {
+                        "name": "MSA RW26 NE",
+                        "value": 3300
+                    },
+                    {
+                        "name": "MSA RW26 SW",
+                        "value": 3300
+                    },
+                    {
+                        "name": "MSA RW26 SE",
+                        "value": 3300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EBMUG to KEKVU)",
+                        "value": 2400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MEBOP to KEKVU)",
+                        "value": 2400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KEKVU to IPVID)",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 1048
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1360
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3200
+                    }
+                ]
+            }
+        ]
     }
 ]
