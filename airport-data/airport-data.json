@@ -7559,5 +7559,213 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYUX",
+        "elevation": 30,
+        "searchTerms": [
+            "CYUX",
+            "Sanirajak",
+            "YUX",
+            "Hall Beach"
+        ],
+        "approaches": [
+            {
+                "name": "RNAV GNSS 12 (TRUE)",
+                "effectiveDate": "2022-12-29T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4100
+                    },
+                    {
+                        "name": "MSA 30nm to DEBEX",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA 30nm to AGPEM",
+                        "value": 2100
+                    },
+                    {
+                        "name": "MSA 30nm to IPVUR",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DEBEX to AGPEM)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IPVUR to AGPEM)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AGPEM to IMODO)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "IMODO",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 280
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 280
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 340
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1200
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 30 (TRUE)",
+                "effectiveDate": "2022-12-29T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4100
+                    },
+                    {
+                        "name": "MSA 30nm to TIGUN",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MSA 30nm to IRLAT",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MSA 30nm to VESGI",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TIGUN to IRLAT)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VESGI to IRLAT)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IRLAT to MURAX)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MURAX",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 271
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 310
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 400
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1300
+                    }
+                ]
+            },
+            {
+                "name": "VOR 12 (TRUE)",
+                "effectiveDate": "2022-12-29T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3900
+                    },
+                    {
+                        "name": "MSA YUX NW",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MSA YUX NE",
+                        "value": 1300
+                    },
+                    {
+                        "name": "MSA YUX SW",
+                        "value": 1300
+                    },
+                    {
+                        "name": "MSA YUX SE",
+                        "value": 1300
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1300
+                    },
+                    {
+                        "name": "MDA (VOR)",
+                        "value": 540
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1500
+                    }
+                ]
+            },
+            {
+                "name": "VOR 30 (TRUE)",
+                "effectiveDate": "2022-12-29T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3900
+                    },
+                    {
+                        "name": "MSA YUX NW",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MSA YUX NE",
+                        "value": 1300
+                    },
+                    {
+                        "name": "MSA YUX SW",
+                        "value": 1300
+                    },
+                    {
+                        "name": "MSA YUX SE",
+                        "value": 1300
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1200
+                    },
+                    {
+                        "name": "MDA (VOR)",
+                        "value": 480
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A & B)",
+                        "value": 540
+                    },
+                    {
+                        "name": "MDA (Circling, Cat C)",
+                        "value": 540
+                    },
+                    {
+                        "name": "MDA (Circling, Cat D)",
+                        "value": 640
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1500
+                    }
+                ]
+            }
+        ]
     }
 ]
