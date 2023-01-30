@@ -6792,5 +6792,178 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYCY",
+        "elevation": 87,
+        "searchTerms": [
+            "CYCY",
+            "Clyde River",
+            "YCY"
+        ],
+        "approaches": [
+            {
+                "name": "NDB 20 (TRUE)",
+                "effectiveDate": "2022-12-29T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 8300
+                    },
+                    {
+                        "name": "MSA YCY NW",
+                        "value": 4600
+                    },
+                    {
+                        "name": "MSA YCY NE",
+                        "value": 2900
+                    },
+                    {
+                        "name": "MSA YCY SW",
+                        "value": 5600
+                    },
+                    {
+                        "name": "MSA YCY SE",
+                        "value": 2900
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1600
+                    },
+                    {
+                        "name": "MDA (NDB)",
+                        "value": 620
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A & B)",
+                        "value": 680
+                    },
+                    {
+                        "name": "MDA (Circling, Cat C)",
+                        "value": 1000
+                    },
+                    {
+                        "name": "MDA (Circling, Cat D)",
+                        "value": 1200
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3500
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS Z 02 (TRUE)",
+                "effectiveDate": "2022-12-29T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 8300
+                    },
+                    {
+                        "name": "MSA 30 nm to OMTIG",
+                        "value": 6000
+                    },
+                    {
+                        "name": "MSA 15 nm to OMTIG",
+                        "value": 4600
+                    },
+                    {
+                        "name": "MSA 30 nm to RADES",
+                        "value": 7900
+                    },
+                    {
+                        "name": "MSA 10 nm to RADES",
+                        "value": 4300
+                    },
+                    {
+                        "name": "MSA 30 nm to XUKEK",
+                        "value": 3200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OMTIG to RADES)",
+                        "value": 4200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (XUKEK to RADES)",
+                        "value": 3100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (RADES to PIGTU)",
+                        "value": 3100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PIGTU to NOTAN)",
+                        "value": 2600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (NOTAN to TIKOS LNAV ONLY)",
+                        "value": 1100
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 738
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 680
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS Z 20 (TRUE)",
+                "effectiveDate": "2022-12-29T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 8300
+                    },
+                    {
+                        "name": "MSA 30nm to EPLIV",
+                        "value": 5000
+                    },
+                    {
+                        "name": "MSA 15nm to EPLIV",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA 30nm to LIVGU",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MSA 30nm to KEVDO",
+                        "value": 3500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EPLIV to LIVGU)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KEVDO to LIVGU)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LIVGU to NUDAG)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 363
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 420
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2600
+                    }
+                ]
+            }
+        ]
     }
 ]
