@@ -7139,5 +7139,128 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYAB",
+        "elevation": 72,
+        "searchTerms": [
+            "CYAB",
+            "Arctic Bay",
+            "YAB"
+        ],
+        "approaches": [
+            {
+                "name": "RNAV GNSS 13 (TRUE)",
+                "effectiveDate": "2021-01-17T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 7400
+                    },
+                    {
+                        "name": "MSA OLANA NW",
+                        "value": 4100
+                    },
+                    {
+                        "name": "MSA OLANA NE",
+                        "value": 4100
+                    },
+                    {
+                        "name": "MSA OLANA SW",
+                        "value": 4100
+                    },
+                    {
+                        "name": "MSA OLANA SE",
+                        "value": 4100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (RABUR to SEKAS)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (GABIV to SEKAS)",
+                        "value": 2200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SEKAS to SUTKA)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "SUTKA",
+                        "value": 2030
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SUTKA to IGSEN)",
+                        "value": 1660
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1080
+                    },
+                    {
+                        "name": "MDA (Circling)",
+                        "value": 1080
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Missed Approach Shuttle Climb",
+                        "value": 2700
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 31 (TRUE)",
+                "effectiveDate": "2021-01-17T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 7400
+                    },
+                    {
+                        "name": "MSA IGROK NW",
+                        "value": 4100
+                    },
+                    {
+                        "name": "MSA IGROK NE",
+                        "value": 4100
+                    },
+                    {
+                        "name": "MSA IGROK SW",
+                        "value": 4100
+                    },
+                    {
+                        "name": "MSA IGROK SE",
+                        "value": 4100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ADSIG to DAMUD)",
+                        "value": 3800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (BEMEP to DAMUD)",
+                        "value": 3300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DAMUD to EBDAB)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EBDAB to GABAG)",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 1740
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3800
+                    }
+                ]
+            }
+        ]
     }
 ]
