@@ -6444,5 +6444,163 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYXP",
+        "elevation": 79,
+        "searchTerms": [
+            "CYXP",
+            "Pang",
+            "YXP",
+            "Pangnirtung"
+        ],
+        "approaches": [
+            {
+                "name": "NDB A (TRUE)",
+                "effectiveDate": "2019-06-20T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 9100
+                    },
+                    {
+                        "name": "MSA YXP NW",
+                        "value": 7000
+                    },
+                    {
+                        "name": "MSA YXP NE",
+                        "value": 8100
+                    },
+                    {
+                        "name": "MSA YXP SW",
+                        "value": 5100
+                    },
+                    {
+                        "name": "MSA YXP SE",
+                        "value": 5900
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 4300
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A, B, C)",
+                        "value": 2820
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 6100
+                    },
+                    {
+                        "name": "Missed Approach Shuttle Climb",
+                        "value": 6300
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS B (TRUE)",
+                "effectiveDate": "2019-06-20T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 9100
+                    },
+                    {
+                        "name": "MSA APMIG NW",
+                        "value": 8100
+                    },
+                    {
+                        "name": "MSA APMIG NE",
+                        "value": 8100
+                    },
+                    {
+                        "name": "MSA APMIG SW",
+                        "value": 8100
+                    },
+                    {
+                        "name": "MSA APMIG SE",
+                        "value": 8100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KEKNU to IKLEP)",
+                        "value": 4100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OMVEN to IKLEP)",
+                        "value": 4100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MUVBO to IKLEP)",
+                        "value": 4100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IKLEP to EBGIV)",
+                        "value": 2600
+                    },
+                    {
+                        "name": "EBGIV",
+                        "value": 2600
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A & B)",
+                        "value": 2440
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4100
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS C (TRUE)",
+                "effectiveDate": "2019-06-20T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 9100
+                    },
+                    {
+                        "name": "MSA SINLU NW",
+                        "value": 8100
+                    },
+                    {
+                        "name": "MSA SINLU NE",
+                        "value": 8100
+                    },
+                    {
+                        "name": "MSA SINLU SW",
+                        "value": 8100
+                    },
+                    {
+                        "name": "MSA SINLU SE",
+                        "value": 8100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KOBIB to IKNUG)",
+                        "value": 5500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IKNUG to ELBIV)",
+                        "value": 4700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ELBIV to AVTEL)",
+                        "value": 3800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AVTEL to URTIK)",
+                        "value": 2800
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A & B)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4300
+                    }
+                ]
+            }
+        ]
     }
 ]
