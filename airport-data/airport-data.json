@@ -6264,6 +6264,13 @@
             "YFB",
             "Frobisher bay"
         ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -68.555801,
+                63.756402
+            ] 
+        },
         "approaches": [
             {
                 "name": "ILS 34",
@@ -6454,6 +6461,13 @@
             "YXP",
             "Pangnirtung"
         ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -65.71360015869999,
+                66.1449966431
+            ] 
+        },
         "approaches": [
             {
                 "name": "NDB A (TRUE)",
@@ -6612,6 +6626,13 @@
             "YVM",
             "Qikiqtarjuaq"
         ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -64.031754,
+                67.546232
+            ] 
+        },
         "approaches": [
             {
                 "name": "NDB A (TRUE)",
@@ -6801,6 +6822,13 @@
             "Clyde River",
             "YCY"
         ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -68.5167007446,
+                70.4860992432
+            ] 
+        },
         "approaches": [
             {
                 "name": "NDB 20 (TRUE)",
@@ -6975,6 +7003,13 @@
             "YIO",
             "Pond"
         ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -77.9666976929,
+                72.6832962036
+            ] 
+        },
         "approaches": [
             {
                 "name": "NDB A (TRUE)",
@@ -7148,6 +7183,13 @@
             "Arctic Bay",
             "YAB"
         ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -85.04616,
+                73.006101
+            ] 
+        },
         "approaches": [
             {
                 "name": "RNAV GNSS 13 (TRUE)",
@@ -7272,6 +7314,13 @@
             "YRB",
             "Rez"
         ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -94.9693984985,
+                74.7169036865
+            ] 
+        },
         "approaches": [
             {
                 "name": "ILS 35 (TRUE)",
@@ -7457,6 +7506,13 @@
             "Igloolik",
             "YGT"
         ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -81.8161010742,
+                69.3647003174
+            ] 
+        },
         "approaches": [
             {
                 "name": "RNAV GNSS 15 (TRUE)",
@@ -7569,6 +7625,13 @@
             "YUX",
             "Hall Beach"
         ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -81.2425,
+                68.7761
+            ] 
+        },
         "approaches": [
             {
                 "name": "RNAV GNSS 12 (TRUE)",
@@ -7778,6 +7841,13 @@
             "Cape Dorset",
             "Dorset"
         ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -76.526703,
+                64.230003
+            ] 
+        },
         "approaches": [
             {
                 "name": "NDB 31 (TRUE)",
