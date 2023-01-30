@@ -7767,5 +7767,168 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYTE",
+        "elevation": 158,
+        "searchTerms": [
+            "CYTE",
+            "Kinngait",
+            "YTE",
+            "Cape Dorset",
+            "Dorset"
+        ],
+        "approaches": [
+            {
+                "name": "NDB 31 (TRUE)",
+                "effectiveDate": "2021-10-07T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3400
+                    },
+                    {
+                        "name": "MSA YTE NW",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA YTE NE",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA YTE SW",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MSA YTE SE",
+                        "value": 2000
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MDA (NDB)",
+                        "value": 1140
+                    },
+                    {
+                        "name": "MDA (Circling)",
+                        "value": 1140
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2400
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 13 (TRUE)",
+                "effectiveDate": "2021-10-07T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3400
+                    },
+                    {
+                        "name": "MSA RW13 NW",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW13 NE",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW13 SW",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW13 SE",
+                        "value": 2400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SEDIN to KEBDA)",
+                        "value": 2100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (USBIT to KEBDA)",
+                        "value": 2200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KEBDA to APDAT)",
+                        "value": 1600
+                    },
+                    {
+                        "name": "APDAT",
+                        "value": 1600
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 586
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 840
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2400
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 31 (TRUE)",
+                "effectiveDate": "2021-10-07T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3400
+                    },
+                    {
+                        "name": "MSA RW31 NW",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW31 NE",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW31 SW",
+                        "value": 2400
+                    },
+                    {
+                        "name": "MSA RW31 SE",
+                        "value": 2400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LENET to PIKNO)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IKMOM to PIKNO)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PIKNO to MURKO)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MURKO",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 458
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 920
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2400
+                    }
+                ]
+            }
+        ]
     }
 ]
