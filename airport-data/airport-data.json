@@ -7262,5 +7262,191 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYRB",
+        "elevation": 222,
+        "searchTerms": [
+            "CYRB",
+            "Resolute Bay",
+            "YRB",
+            "Rez"
+        ],
+        "approaches": [
+            {
+                "name": "ILS 35 (TRUE)",
+                "effectiveDate": "2020-12-31T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3700
+                    },
+                    {
+                        "name": "MSA RB NW",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA RB NE",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA RB SW",
+                        "value": 1800
+                    },
+                    {
+                        "name": "MSA RB SE",
+                        "value": 1900
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PT to POKAN)",
+                        "value": 700
+                    },
+                    {
+                        "name": "POKAN",
+                        "value": 1540
+                    },
+                    {
+                        "name": "MDA (ILS/DME)",
+                        "value": 397
+                    },
+                    {
+                        "name": "MDA (LOC/DME)",
+                        "value": 540
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A, B, C)",
+                        "value": 940
+                    },
+                    {
+                        "name": "MDA (Circling, Cat D)",
+                        "value": 980
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2200
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 17",
+                "effectiveDate": "2019-10-10T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3700
+                    },
+                    {
+                        "name": "MSA RW17 NW",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA RW17 NE",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA RW17 SW",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA RW17 SE",
+                        "value": 2200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IKNOP to DUPMA)",
+                        "value": 1900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IRDUG to DUPMA)",
+                        "value": 1900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DUPMA to OTIGU)",
+                        "value": 1900
+                    },
+                    {
+                        "name": "OTIGU",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 465
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 719
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 820
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2200
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 35",
+                "effectiveDate": "2019-10-10T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 3700
+                    },
+                    {
+                        "name": "MSA RW35 NW",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA RW35 NE",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA RW35 SW",
+                        "value": 2200
+                    },
+                    {
+                        "name": "MSA RW35 SE",
+                        "value": 2200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ESTAP to MUSAT)",
+                        "value": 1800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IPTEK to MUSAT)",
+                        "value": 1800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MUSAT to OTNEL)",
+                        "value": 1800
+                    },
+                    {
+                        "name": "OTNEL",
+                        "value": 1800
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 428
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 607
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 700
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2200
+                    }
+                ]
+            }
+        ]
     }
 ]
