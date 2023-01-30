@@ -6965,5 +6965,179 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYIO",
+        "elevation": 202,
+        "searchTerms": [
+            "CYIO",
+            "Pond Inlet",
+            "YIO",
+            "Pond"
+        ],
+        "approaches": [
+            {
+                "name": "NDB A (TRUE)",
+                "effectiveDate": "2020-11-05T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 8500
+                    },
+                    {
+                        "name": "MSA YIO NW",
+                        "value": 7200
+                    },
+                    {
+                        "name": "MSA YIO NE",
+                        "value": 6900
+                    },
+                    {
+                        "name": "MSA YIO SW",
+                        "value": 5100
+                    },
+                    {
+                        "name": "MSA YIO SE",
+                        "value": 6300
+                    },
+                    {
+                        "name": "Shuttle Descent",
+                        "value": 2600
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 1600
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A & B)",
+                        "value": 720
+                    },
+                    {
+                        "name": "MDA (Circling, Cat C)",
+                        "value": 720
+                    },
+                    {
+                        "name": "MDA (Circling, Cat D)",
+                        "value": 820
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4700
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 02 (TRUE)",
+                "effectiveDate": "2019-10-10T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 8500
+                    },
+                    {
+                        "name": "MSA RW02 NW",
+                        "value": 7200
+                    },
+                    {
+                        "name": "MSA RW02 NE",
+                        "value": 7200
+                    },
+                    {
+                        "name": "MSA RW02 SW",
+                        "value": 7200
+                    },
+                    {
+                        "name": "MSA RW02 SE",
+                        "value": 7200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LIVRA to VILNI)",
+                        "value": 3800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KIPUN to VILNI)",
+                        "value": 3800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VILNI to ETBUT)",
+                        "value": 2300
+                    },
+                    {
+                        "name": "ETBUT",
+                        "value": 2300
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 720
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3800
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 20 (TRUE)",
+                "effectiveDate": "2019-10-10T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 8500
+                    },
+                    {
+                        "name": "MSA RW20 NW",
+                        "value": 7200
+                    },
+                    {
+                        "name": "MSA RW20 NE",
+                        "value": 7200
+                    },
+                    {
+                        "name": "MSA RW20 SW",
+                        "value": 7200
+                    },
+                    {
+                        "name": "MSA RW20 SE",
+                        "value": 7200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VIDPA to IKBER)",
+                        "value": 4900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IKBER to SAVUV)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VIGTI to IRLET)",
+                        "value": 4900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IRLET to SAVUV)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SAVUV to URSOX)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "URSOX",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 700
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4200
+                    },
+                    {
+                        "name": "Missed Approach Shuttle Climb",
+                        "value": 5300
+                    }
+                ]
+            }
+        ]
     }
 ]
