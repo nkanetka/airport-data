@@ -6602,5 +6602,195 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYVM",
+        "elevation": 18,
+        "searchTerms": [
+            "CYVM",
+            "Qik",
+            "YVM",
+            "Qikiqtarjuaq"
+        ],
+        "approaches": [
+            {
+                "name": "NDB A (TRUE)",
+                "effectiveDate": "2022-12-29T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 9200
+                    },
+                    {
+                        "name": "MSA YJI NW",
+                        "value": 6200
+                    },
+                    {
+                        "name": "MSA YJI NE",
+                        "value": 4600
+                    },
+                    {
+                        "name": "MSA YJI SW",
+                        "value": 7000
+                    },
+                    {
+                        "name": "MSA YJI SE",
+                        "value": 5500
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 3200
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A, B, C)",
+                        "value": 1740
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4600
+                    },
+                    {
+                        "name": "Missed Approach Shuttle Climb",
+                        "value": 4900
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS B (TRUE)",
+                "effectiveDate": "2022-12-29T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 9200
+                    },
+                    {
+                        "name": "MSA 30 nm to NUBIL",
+                        "value": 7900
+                    },
+                    {
+                        "name": "MSA 12 nm to NUBIL",
+                        "value": 6500
+                    },
+                    {
+                        "name": "MSA 30 nm to LERIR",
+                        "value": 8800
+                    },
+                    {
+                        "name": "MSA 10 nm to LERIR",
+                        "value": 6300
+                    },
+                    {
+                        "name": "MSA 30 nm to PEPDU",
+                        "value": 5700
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (NUBIL to LERIR)",
+                        "value": 6100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PEPDU to LERIR)",
+                        "value": 5600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LERIR to ILOKO)",
+                        "value": 5400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ILOKO to EMGIS)",
+                        "value": 4800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EMGIS to BOPIM)",
+                        "value": 4100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (BOPIM to USBIP)",
+                        "value": 3300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (USBIP to TEVIV)",
+                        "value": 2500
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MDA (Circling, Cat B)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "MDA (Circling, Cat C)",
+                        "value": 1700
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3900
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS C (TRUE)",
+                "effectiveDate": "2022-12-29T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 9200
+                    },
+                    {
+                        "name": "MSA 30nm to OTNOD",
+                        "value": 7400
+                    },
+                    {
+                        "name": "MSA 12nm to OTNOD",
+                        "value": 4800
+                    },
+                    {
+                        "name": "MSA 30nm to ENATI",
+                        "value": 5400
+                    },
+                    {
+                        "name": "MSA 10nm to ENATI",
+                        "value": 3100
+                    },
+                    {
+                        "name": "MSA 30nm to IRGIK",
+                        "value": 5100
+                    },
+                    {
+                        "name": "MSA 10nm to IRGIK",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OTNOD to ENATI)",
+                        "value": 2500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IRGIK to ENATI)",
+                        "value": 2500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ENATI to DEPGU)",
+                        "value": 2500
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A)",
+                        "value": 1260
+                    },
+                    {
+                        "name": "MDA (Circling, Cat B)",
+                        "value": 1300
+                    },
+                    {
+                        "name": "MDA (Circling, Cat C)",
+                        "value": 2380
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3900
+                    }
+                ]
+            }
+        ]
     }
 ]
