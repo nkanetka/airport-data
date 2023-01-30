@@ -7332,7 +7332,7 @@
                 ]
             },
             {
-                "name": "RNAV GNSS 17",
+                "name": "RNAV GNSS 17 (TRUE)",
                 "effectiveDate": "2019-10-10T09:01:00Z",
                 "minimumAltitudes": [
                     {
@@ -7390,7 +7390,7 @@
                 ]
             },
             {
-                "name": "RNAV GNSS 35",
+                "name": "RNAV GNSS 35 (TRUE)",
                 "effectiveDate": "2019-10-10T09:01:00Z",
                 "minimumAltitudes": [
                     {
@@ -7444,6 +7444,117 @@
                     {
                         "name": "Missed Approach",
                         "value": 2200
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CYGT",
+        "elevation": 173,
+        "searchTerms": [
+            "CYGT",
+            "Igloolik",
+            "YGT"
+        ],
+        "approaches": [
+            {
+                "name": "RNAV GNSS 15 (TRUE)",
+                "effectiveDate": "2019-10-10T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4100
+                    },
+                    {
+                        "name": "MSA RW15 NW",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA RW15 NE",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA RW15 SW",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA RW15 SE",
+                        "value": 1900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AGDOK to ERBOB)",
+                        "value": 1300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (BEVAB to ERBOB)",
+                        "value": 1200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ERBOB to GAGMA)",
+                        "value": 800
+                    },
+                    {
+                        "name": "GAGMA",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 680
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1900
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 33 (TRUE)",
+                "effectiveDate": "2019-10-10T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 4100
+                    },
+                    {
+                        "name": "MSA RW33 NW",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA RW33 NE",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA RW33 SW",
+                        "value": 1900
+                    },
+                    {
+                        "name": "MSA RW33 SE",
+                        "value": 1900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MISUS to MUTIL)",
+                        "value": 1300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LIRTU to MUTIL)",
+                        "value": 1200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MUTIL to VITIR)",
+                        "value": 800
+                    },
+                    {
+                        "name": "VITIR",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 660
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 1900
                     }
                 ]
             }
