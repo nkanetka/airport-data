@@ -6254,5 +6254,195 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYFB",
+        "elevation": 110,
+        "searchTerms": [
+            "CYFB",
+            "Iqaluit",
+            "YFB",
+            "Frobisher bay"
+        ],
+        "approaches": [
+            {
+                "name": "ILS 34",
+                "effectiveDate": "2022-11-03T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 6000
+                    },
+                    {
+                        "name": "MSA YFB NW",
+                        "value": 3500
+                    },
+                    {
+                        "name": "MSA YFB NE",
+                        "value": 3300
+                    },
+                    {
+                        "name": "MSA YFB SW",
+                        "value": 3600
+                    },
+                    {
+                        "name": "MSA YFB SE",
+                        "value": 3300
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 2100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PT to TIBEG)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TIBEG to ONGAT)",
+                        "value": 800
+                    },
+                    {
+                        "name": "MDA (ILS/DME)",
+                        "value": 284
+                    },
+                    {
+                        "name": "MDA (LOC/DME)",
+                        "value": 460
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A & B)",
+                        "value": 640
+                    },
+                    {
+                        "name": "MDA (Circling, Cat C)",
+                        "value": 640
+                    },
+                    {
+                        "name": "MDA (Circling, Cat D)",
+                        "value": 720
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2500
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 16",
+                "effectiveDate": "2022-11-03T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 6000
+                    },
+                    {
+                        "name": "MSA RW16 NW",
+                        "value": 3600
+                    },
+                    {
+                        "name": "MSA RW16 NE",
+                        "value": 3600
+                    },
+                    {
+                        "name": "MSA RW16 SW",
+                        "value": 3600
+                    },
+                    {
+                        "name": "MSA RW16 SE",
+                        "value": 3600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (CIRCK to XUDPA)",
+                        "value": 2300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (GLASE to XUDPA)",
+                        "value": 2300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (USBIV to XUDPA)",
+                        "value": 2300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (XUDPA to ATHAB)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "ATHAB",
+                        "value": 1500
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 370
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 1020
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 740
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3600
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 34",
+                "effectiveDate": "2022-11-03T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 6000
+                    },
+                    {
+                        "name": "MSA RW34 NW",
+                        "value": 3600
+                    },
+                    {
+                        "name": "MSA RW34 NE",
+                        "value": 3600
+                    },
+                    {
+                        "name": "MSA RW34 SW",
+                        "value": 3600
+                    },
+                    {
+                        "name": "MSA RW34 SE",
+                        "value": 3600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DEPMO to IPTOV)",
+                        "value": 1500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OMTID to IPTOV)",
+                        "value": 1900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IPTOV to EPROK)",
+                        "value": 1400
+                    },
+                    {
+                        "name": "EPROK",
+                        "value": 1400
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 271
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 700
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 2500
+                    }
+                ]
+            }
+        ]
     }
 ]
