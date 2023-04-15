@@ -9272,5 +9272,355 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYLW",
+        "elevation": 1420,
+        "searchTerms": [
+            "CYLW",
+            "Kelowna",
+            "YKA"
+        ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -119.377998,
+                49.9561
+            ] 
+        },
+        "approaches": [
+            {
+                "name": "LOC Y 16",
+                "effectiveDate": "2023-02-23T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12500
+                    },
+                    {
+                        "name": "MSA EX NW",
+                        "value": 7900
+                    },
+                    {
+                        "name": "MSA EX NE",
+                        "value": 8300
+                    },
+                    {
+                        "name": "MSA EX SW",
+                        "value": 7900
+                    },
+                    {
+                        "name": "MSA EX SE",
+                        "value": 8800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TOSUS to AVTIM)",
+                        "value": 7900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AVTIM to WTMAN)",
+                        "value": 6300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (WTMAN to EPRAV)",
+                        "value": 5500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EPRAV to TATVI)",
+                        "value": 4500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TATVI to BOGNO)",
+                        "value": 3300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (BOGNO to IGSEV)",
+                        "value": 2640
+                    },
+                    {
+                        "name": "MDA (LOC/DME)",
+                        "value": 2160
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 9000
+                    }
+                ]
+            },
+            {
+                "name": "LOC Z 16",
+                "effectiveDate": "2021-10-07T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12500
+                    },
+                    {
+                        "name": "MSA EX NW",
+                        "value": 7900
+                    },
+                    {
+                        "name": "MSA EX NE",
+                        "value": 8300
+                    },
+                    {
+                        "name": "MSA EX SW",
+                        "value": 7900
+                    },
+                    {
+                        "name": "MSA EX SE",
+                        "value": 8800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TOSUS to AVTIM)",
+                        "value": 7900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AVTIM to WTMAN)",
+                        "value": 6300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (WTMAN to EPRAV)",
+                        "value": 5500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EPRAV to TATVI)",
+                        "value": 4500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TATVI to BOGNO)",
+                        "value": 3300
+                    },
+                    {
+                        "name": "MDA (LOC/DME)",
+                        "value": 2800
+                    },
+                    {
+                        "name": "MDA (Circling)",
+                        "value": 2840
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 9000
+                    }
+                ]
+            },
+            {
+                "name": "NDB B",
+                "effectiveDate": "2022-05-19T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12500
+                    },
+                    {
+                        "name": "MSA LW NW",
+                        "value": 7900
+                    },
+                    {
+                        "name": "MSA LW NE",
+                        "value": 8300
+                    },
+                    {
+                        "name": "MSA LW SW",
+                        "value": 7700
+                    },
+                    {
+                        "name": "MSA LW SE",
+                        "value": 8800
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 6500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PT to LW)",
+                        "value": 4500
+                    },
+                    {
+                        "name": "MDA (Circling)",
+                        "value": 3660
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 7400
+                    }
+                ]
+            },
+            {
+                "name": "RNAV A",
+                "effectiveDate": "2021-10-07T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12500
+                    },
+                    {
+                        "name": "MSA ADSOT NW",
+                        "value": 8800
+                    },
+                    {
+                        "name": "MSA ADSOT NE",
+                        "value": 8800
+                    },
+                    {
+                        "name": "MSA ADSOT SW",
+                        "value": 8800
+                    },
+                    {
+                        "name": "MSA ADSOT SE",
+                        "value": 8800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (KOBEV to DAMUT)",
+                        "value": 6000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DAMUT to BOLDI)",
+                        "value": 5100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AMBAT to GABOT)",
+                        "value": 7800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (GABOT to BOLDI)",
+                        "value": 5400
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (BOLDI to ELSEN)",
+                        "value": 4700
+                    },
+                    {
+                        "name": "MDA (Circling)",
+                        "value": 3040
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 7400
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS Y 16",
+                "effectiveDate": "2021-10-07T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 13800
+                    },
+                    {
+                        "name": "MSA AXETI NW",
+                        "value": 8800
+                    },
+                    {
+                        "name": "MSA AXETI NE",
+                        "value": 8800
+                    },
+                    {
+                        "name": "MSA AXETI SW",
+                        "value": 8800
+                    },
+                    {
+                        "name": "MSA AXETI SE",
+                        "value": 8800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DATBO to WTMAN)",
+                        "value": 6600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LENUR to WTMAN)",
+                        "value": 5900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MITAN to XERUX)",
+                        "value": 7500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (XERUX to WTMAN)",
+                        "value": 5900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (WTMAN to TATVI)",
+                        "value": 4200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TATVI to XOVTO)",
+                        "value": 3100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (XOVTO to XEVIM)",
+                        "value": 2840
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 2740
+                    },
+                    {
+                        "name": "MDA (Circling)",
+                        "value": 2840
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 9000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS Z 16",
+                "effectiveDate": "2021-10-07T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 13800
+                    },
+                    {
+                        "name": "MSA AXETI NW",
+                        "value": 8800
+                    },
+                    {
+                        "name": "MSA AXETI NE",
+                        "value": 8800
+                    },
+                    {
+                        "name": "MSA AXETI SW",
+                        "value": 8800
+                    },
+                    {
+                        "name": "MSA AXETI SE",
+                        "value": 8800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DATBO to WTMAN)",
+                        "value": 6600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (LENUR to WTMAN)",
+                        "value": 5900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (MITAN to XERUX)",
+                        "value": 7500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (XERUX to WTMAN)",
+                        "value": 5900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (WTMAN to TATVI)",
+                        "value": 4200
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 2281
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 9000
+                    }
+                ]
+            }
+        ]
     }
 ]
