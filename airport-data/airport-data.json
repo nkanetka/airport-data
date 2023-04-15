@@ -8000,5 +8000,609 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "CYVR",
+        "elevation": 13,
+        "searchTerms": [
+            "CYVR",
+            "Vancouver",
+            "YVR"
+        ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -123.183998108,
+                49.193901062
+            ] 
+        },
+        "approaches": [
+            {
+                "name": "ILS 08R",
+                "effectiveDate": "2023-02-23T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12800
+                    },
+                    {
+                        "name": "MSA YVR NW",
+                        "value": 7000
+                    },
+                    {
+                        "name": "MSA YVR NE",
+                        "value": 6800
+                    },
+                    {
+                        "name": "MSA YVR SW",
+                        "value": 5100
+                    },
+                    {
+                        "name": "MSA YVR SE",
+                        "value": 3800
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (BUBUL to TAVPI)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TAVPI to OBVIT)",
+                        "value": 800
+                    },
+                    {
+                        "name": "MDA (ILS/DME)",
+                        "value": 209
+                    },
+                    {
+                        "name": "MDA (LOC/DME)",
+                        "value": 280
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 5400
+                    }
+                ]
+            },
+            {
+                "name": "ILS 13",
+                "effectiveDate": "2022-09-08T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12800
+                    },
+                    {
+                        "name": "MSA YVR NW",
+                        "value": 7000
+                    },
+                    {
+                        "name": "MSA YVR NE",
+                        "value": 6800
+                    },
+                    {
+                        "name": "MSA YVR SW",
+                        "value": 5100
+                    },
+                    {
+                        "name": "MSA YVR SE",
+                        "value": 3800
+                    },
+                    {
+                        "name": "PT Altitude",
+                        "value": 5300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (NABOK to IGVAS)",
+                        "value": 3900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IGVAS to DATSI)",
+                        "value": 3300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DATSI to PETKO)",
+                        "value": 1580
+                    },
+                    {
+                        "name": "MDA (ILS/DME)",
+                        "value": 258
+                    },
+                    {
+                        "name": "MDA (LOC/DME)",
+                        "value": 440
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 7500
+                    }
+                ]
+            },
+            {
+                "name": "ILS 26L",
+                "effectiveDate": "2023-02-23T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12800
+                    },
+                    {
+                        "name": "MSA YVR NW",
+                        "value": 7000
+                    },
+                    {
+                        "name": "MSA YVR NE",
+                        "value": 6800
+                    },
+                    {
+                        "name": "MSA YVR SW",
+                        "value": 5100
+                    },
+                    {
+                        "name": "MSA YVR SE",
+                        "value": 3800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SAVED to DUTOM)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MDA (ILS/DME)",
+                        "value": 207
+                    },
+                    {
+                        "name": "MDA (LOC/DME)",
+                        "value": 540
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 4800
+                    }
+                ]
+            },
+            {
+                "name": "ILS 26R",
+                "effectiveDate": "2023-02-23T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12800
+                    },
+                    {
+                        "name": "MSA YVR NW",
+                        "value": 7000
+                    },
+                    {
+                        "name": "MSA YVR NE",
+                        "value": 6800
+                    },
+                    {
+                        "name": "MSA YVR SW",
+                        "value": 5100
+                    },
+                    {
+                        "name": "MSA YVR SE",
+                        "value": 3800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (GOREG to TOTIM)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TOTIM to UDNAR)",
+                        "value": 800
+                    },
+                    {
+                        "name": "MDA (ILS/DME)",
+                        "value": 209
+                    },
+                    {
+                        "name": "MDA (LOC/DME)",
+                        "value": 600
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 5300
+                    }
+                ]
+            },
+            {
+                "name": "ILS Z 08L",
+                "effectiveDate": "2023-02-23T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12800
+                    },
+                    {
+                        "name": "MSA YVR NW",
+                        "value": 7000
+                    },
+                    {
+                        "name": "MSA YVR NE",
+                        "value": 6800
+                    },
+                    {
+                        "name": "MSA YVR SW",
+                        "value": 5100
+                    },
+                    {
+                        "name": "MSA YVR SE",
+                        "value": 3800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EMKAM to OMRAD)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OMRAD to URLED)",
+                        "value": 800
+                    },
+                    {
+                        "name": "MDA (ILS/DME)",
+                        "value": 213
+                    },
+                    {
+                        "name": "MDA (LOC/DME)",
+                        "value": 300
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 08R",
+                "effectiveDate": "2023-02-23T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12800
+                    },
+                    {
+                        "name": "MSA RW08R NW",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW08R NE",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW08R SW",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW08R SE",
+                        "value": 7800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VINLO to BUBUL)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (NAKMA to BUBUL)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (BUBUL to TAVPI)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TAVPI to OBVIT)",
+                        "value": 800
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 209
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 283
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 380
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 5200
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 13",
+                "effectiveDate": "2022-09-08T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12800
+                    },
+                    {
+                        "name": "MSA RW13 NW",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW13 NE",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW13 SW",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW13 SE",
+                        "value": 7800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (NABOK to TAGTI)",
+                        "value": 4000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TAGTI to IGVAS)",
+                        "value": 3600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (GONIN to IGVAS)",
+                        "value": 3600
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IGVAS to UDLEM)",
+                        "value": 2300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (UDLEM to PETKO)",
+                        "value": 1200
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PETKO to ANTEY)",
+                        "value": 700
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 258
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 330
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 400
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 5800
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 26L",
+                "effectiveDate": "2023-02-23T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12800
+                    },
+                    {
+                        "name": "MSA RW26L NW",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW26L NE",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW26L SW",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW26L SE",
+                        "value": 7800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SEDUS to SAVED)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PEMSU to SAVED)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SAVED to DUTOM)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 207
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 566
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 520
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 5100
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 26R",
+                "effectiveDate": "2023-02-23T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12800
+                    },
+                    {
+                        "name": "MSA RW26R NW",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW26R NE",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW26R SW",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW26R SE",
+                        "value": 7800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (SEDUS to GOREG)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (PEMSU to GOREG)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (GOREG to DUTOM)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 209
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 567
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 600
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 5300
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS 31",
+                "effectiveDate": "2023-02-23T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12800
+                    },
+                    {
+                        "name": "MSA RW31 NW",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW31 NE",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW31 SW",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW31 SE",
+                        "value": 7800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AVRAP to IGTOB)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (AVILE to IGTOB)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (WC to IGTOB)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (IGTOB to KEKTU)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 257
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 353
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 540
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 5600
+                    }
+                ]
+            },
+            {
+                "name": "RNAV GNSS Z 08L",
+                "effectiveDate": "2023-02-23T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12800
+                    },
+                    {
+                        "name": "MSA RW08L NW",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW08L NE",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW08L SW",
+                        "value": 7800
+                    },
+                    {
+                        "name": "MSA RW08L SE",
+                        "value": 7800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (NAKMA to EMKAM)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VINLO to EMKAM)",
+                        "value": 3000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (EMKAM to OMRAD)",
+                        "value": 2000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OMRAD to URLED)",
+                        "value": 800
+                    },
+                    {
+                        "name": "MDA (LPV)",
+                        "value": 213
+                    },
+                    {
+                        "name": "MDA (LNAV/VNAV)",
+                        "value": 329
+                    },
+                    {
+                        "name": "MDA (LNAV)",
+                        "value": 380
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 3000
+                    }
+                ]
+            }
+        ]
     }
 ]
