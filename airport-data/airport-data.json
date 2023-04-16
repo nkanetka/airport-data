@@ -9279,7 +9279,7 @@
         "searchTerms": [
             "CYLW",
             "Kelowna",
-            "YKA"
+            "YLW"
         ],
         "location": { 
             "type": "Point", 
@@ -9618,6 +9618,140 @@
                     {
                         "name": "Missed Approach",
                         "value": 9000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CYKA",
+        "elevation": 1133,
+        "searchTerms": [
+            "CYKA",
+            "Kamloops",
+            "YKA"
+        ],
+        "location": { 
+            "type": "Point", 
+            "coordinates": [
+                -120.444000244,
+                50.7022018433
+            ] 
+        },
+        "approaches": [
+            {
+                "name": "LOC Z 27",
+                "effectiveDate": "2023-02-23T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12000
+                    },
+                    {
+                        "name": "MSA 30 nm to LEXEB",
+                        "value": 8100
+                    },
+                    {
+                        "name": "MSA 30 nm to BODVU",
+                        "value": 8600
+                    },
+                    {
+                        "name": "MSA 11 nm to BODVU",
+                        "value": 8000
+                    },
+                    {
+                        "name": "MSA 30 nm to VOMAD",
+                        "value": 8900
+                    },
+                    {
+                        "name": "MSA 12 nm to VOMAD",
+                        "value": 8000
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VOMAD to DEBDI)",
+                        "value": 5900
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (DEBDI to OBTOR)",
+                        "value": 4800
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (OBTOR to IKMEM)",
+                        "value": 3720
+                    },
+                    {
+                        "name": "MDA (LOC/DME)",
+                        "value": 3140
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A & B)",
+                        "value": 3140
+                    },
+                    {
+                        "name": "MDA (Circling, Cat C)",
+                        "value": 3600
+                    },
+                    {
+                        "name": "MDA (Circling, Cat D)",
+                        "value": 4100
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 8000
+                    }
+                ]
+            },
+            {
+                "name": "RNAV A",
+                "effectiveDate": "2021-09-08T09:01:00Z",
+                "minimumAltitudes": [
+                    {
+                        "name": "MSA 100nm",
+                        "value": 12000
+                    },
+                    {
+                        "name": "MSA RW27 NW",
+                        "value": 8100
+                    },
+                    {
+                        "name": "MSA RW27 NE",
+                        "value": 8100
+                    },
+                    {
+                        "name": "MSA RW27 SW",
+                        "value": 8100
+                    },
+                    {
+                        "name": "MSA RW27 SE",
+                        "value": 8100
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (URNIP to TUDUD)",
+                        "value": 6500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (VIBSO to TUDUD)",
+                        "value": 6500
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (TUDUD to ROTKA)",
+                        "value": 5300
+                    },
+                    {
+                        "name": "Seg. Min. Alt. (ROTKA to PIKDI)",
+                        "value": 4500
+                    },
+                    {
+                        "name": "MDA (Circling, Cat A, B, C)",
+                        "value": 3240
+                    },
+                    {
+                        "name": "MDA (Circling, Cat D)",
+                        "value": 3360
+                    },
+                    {
+                        "name": "Missed Approach",
+                        "value": 8000
                     }
                 ]
             }
